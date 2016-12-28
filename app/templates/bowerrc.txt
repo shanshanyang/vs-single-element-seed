@@ -1,0 +1,24 @@
+{
+  "cwd": "~/.my-project",
+  "directory": "bower_components",
+  "shorthand-resolver": "git://github.com//.git",
+  "save": true,
+  "save-exact": true,
+  "storage": {
+    "packages" : "~/.bower/packages",
+    "links" : "~/.bower/links"
+  },
+  "resolvers": [
+    "filesystem-bower-resolver",
+    "bower-shrinkwrap-resolver"
+  ],
+  "scripts": {
+    "preinstall": "",
+    "postinstall": "",
+    "preuninstall": ""
+  },
+  "ignoredDependencies": [
+    
+  ],
+  "ignore": [ "src/index.js" ]
+}

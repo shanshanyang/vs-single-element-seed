@@ -1,0 +1,94 @@
+[submodule "components/base-style"]
+	path = components/base-style
+	url = ssh://git@stash.lbidts.com/fewd/base-style.git
+	branch = master
+[submodule "components/fab-image"]
+	path = components/fab-image
+	url = ssh://git@stash.lbidts.com/fewd/fab-image.git
+	branch = master
+[submodule "components/base-ellipsis"]
+	path = components/base-ellipsis
+	url = ssh://git@stash.lbidts.com/fewd/base-ellipsis.git
+	branch = master
+[submodule "components/base-carousel"]
+	path = components/base-carousel
+	url = ssh://git@stash.lbidts.com/fewd/base-carousel.git
+	branch = master
+[submodule "components/base-data"]
+	path = components/base-data
+	url = ssh://git@stash.lbidts.com/fewd/base-data.git
+	branch = master
+[submodule "components/base-cms"]
+	path = components/base-cms
+	url = ssh://git@stash.lbidts.com/fewd/base-cms.git
+	branch = master
+
+[submodule "components/base-diva-feed"]
+	path = components/base-diva-feed
+	url = ssh://git@stash.lbidts.com/fewd/base-diva-feed.git
+	branch = master
+[submodule "components/base-font"]
+	path = components/base-font
+	url = ssh://git@stash.lbidts.com/fewd/base-font.git
+	branch = master
+[submodule "components/base-loadmore"]
+	path = components/base-loadmore
+	url = ssh://git@stash.lbidts.com/fewd/base-loadmore.git
+	branch = master
+[submodule "components/base-metrics"]
+	path = components/base-metrics
+	url = ssh://git@stash.lbidts.com/fewd/base-metrics.git
+	branch = master
+[submodule "components/base-modal"]
+	path = components/base-modal
+	url = ssh://git@stash.lbidts.com/fewd/base-modal.git
+	branch = master
+[submodule "components/base-overlay"]
+	path = components/base-overlay
+	url = ssh://git@stash.lbidts.com/fewd/base-overlay.git
+	branch = master
+[submodule "components/base-share"]
+	path = components/base-share
+	url = ssh://git@stash.lbidts.com/fewd/base-share.git
+	branch = master
+[submodule "components/base-video"]
+	path = components/base-video
+	url = ssh://git@stash.lbidts.com/fewd/base-video.git
+	branch = master
+[submodule "components/base-viewport"]
+	path = components/base-viewport
+	url = ssh://git@stash.lbidts.com/fewd/base-viewport.git
+	branch = master
+[submodule "components/base-zipper"]
+	path = components/base-zipper
+	url = ssh://git@stash.lbidts.com/fewd/base-zipper.git
+	branch = master
+
+[submodule "components/html-echo"]
+	path = components/html-echo
+	url = ssh://git@stash.lbidts.com/fewd/html-echo.git
+	branch = master
+[submodule "components/social-card"]
+	path = components/social-card
+	url = ssh://git@stash.lbidts.com/fewd/social-card.git
+	branch = master
+[submodule "components/social-carousel"]
+	path = components/social-carousel
+	url = ssh://git@stash.lbidts.com/fewd/social-carousel.git
+	branch = master
+[submodule "components/static-carousel"]
+	path = components/static-carousel
+	url = ssh://git@stash.lbidts.com/fewd/static-carousel.git
+	branch = master
+[submodule "components/vs-360-viewer"]
+	path = components/vs-360-viewer
+	url = ssh://git@stash.lbidts.com/fewd/vs-360-viewer.git
+	branch = master
+[submodule "components/vs-load-more"]
+	path = components/vs-load-more
+	url = ssh://git@stash.lbidts.com/fewd/vs-load-more.git
+	branch = master
+[submodule "components/vs-social-post"]
+	path = components/vs-social-post
+	url = ssh://git@stash.lbidts.com/fewd/vs-social-post.git
+	branch = master

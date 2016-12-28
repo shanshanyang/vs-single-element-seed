@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title><%= elementName %> Demo</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=yes">
+  <!-- Load webcompoenents lite for cross browser-->
+  <script src="../../webcomponentsjs/webcomponents-lite.js"></script>
+  <!-- Load dependecy demo helper components -->
+  <link rel="import" href="../../iron-demo-helpers/demo-snippet.html">
+  <link rel="import" href="../../iron-demo-helpers/demo-pages-shared-styles.html">
+  <link rel="import" href="../../iron-icon/iron-icon.html">
+  <link rel="import" href="demo-icons.html">
+
+  <!-- Load dependecy components-->
+  
+  <!-- Load current demo component -->
+  <link rel="import" href="../<%= elementName %>.html">
+
+  <!-- Style the demo page -->
+  <style is="custom-style" include="demo-pages-shared-styles">
+    .vertical-section-container {
+        max-width: 500px;
+    }
+    
+    /*Customize hamburger icon size with iron-icon style API*/
+    .big {
+      --iron-icon-width: 32px;
+      --iron-icon-height: 32px;
+    }
+  </style>
+</head>
+<body unresolved>
+  <div class="vertical-section-container centered">
+    <h3>Description of Demo 1</h3>
+    <demo-snippet class="centered-demo">
+      <template>
+        <<%= elementName %>>
+            <iron-icon icon="demo:hamburger" class="big"></iron-icon>
+        </<%= elementName %>>
+      </template>
+    </demo-snippet>
+  </div>
+</body>
+</html>
